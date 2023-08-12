@@ -1,7 +1,7 @@
 <div align="center">
     <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZDg4MjcxOTFkMGU3M2U2ZTc5Mzc4ODI4Zjc2YzFiM2Q0NmRmMmFlMSZjdD1n/f3iwJFOVOwuy7K6FFw/giphy.gif" width="200">
     <h1>Hello! 👋 I'm MonDev, a software developer from Honduras.</h1>
-    <p>I have experience in JavaScript, Python, HTML/CSS, Java, and PHP. This repository showcases some of my work, and I hope you find something useful here. If you have any questions or comments, please don't hesitate to reach out to me.</p>
+    <p>I have experience in JavaScript, React, HTML/CSS, Java, and PHP. This repository showcases some of my work, and I hope you find something useful here. If you have any questions or comments, please don't hesitate to reach out to me.</p>
 </div>
 
 ---
@@ -10,7 +10,7 @@
 
 🌍 I'm based in Tegucigalpa, Honduras.
 
-💻 I have experience in programming in the following languages: JavaScript, Python, HTML/CSS, Java, and PHP.
+💻 I have experience in programming in the following languages: JavaScript, React, HTML/CSS, Java, and PHP.
 
 📖 I'm currently learning Data Analyst Jr.
 
@@ -26,7 +26,6 @@
     <h3> 🔨 Languages and Tools:</h3>
     <div>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" height="50"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="50" height="50"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="50" height="50"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="PHP" width="50" height="50"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="50" height="50"/>
