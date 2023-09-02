@@ -1,7 +1,7 @@
 <div align="center">
     <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZDg4MjcxOTFkMGU3M2U2ZTc5Mzc4ODI4Zjc2YzFiM2Q0NmRmMmFlMSZjdD1n/f3iwJFOVOwuy7K6FFw/giphy.gif" width="200" alt="MonDev">
     <h1>Hello! 👋 I'm MonDev.</h1>
-    <p>Welcome to my GitHub profile! I'm a passionate full-stack developer based in Honduras.</p>
+    <p>Welcome to my GitHub profile! I'm a passionate Full Stack Web Developer based in Honduras.</p>
     <p>This repository showcases some of my work, and I hope you find something useful here. If you have any questions or comments, please don't hesitate to reach out to me.</p>
 </div>
 
@@ -12,13 +12,15 @@
 
 🌍 Based in Tegucigalpa, Honduras.
 
-💻 Proficient in programming languages such as JavaScript, React, HTML/CSS, Java, and PHP.
+💻 Proficient in programming languages such as JavaScript, Java, PHP, C# and Asp.net.
 
-📖 Currently, I'm on a journey to become a Data Analyst Jr.
+📖 Currently, I'm on a journey to become a DevOps.
+
+👨🏻‍💻 Repository showcases some of my work: https://github.com/ramonsolis11
 
 🎓 Graduated in Systems Engineering from Universidad Católica de Honduras.
 
-🎉 Passionate about web development and artificial intelligence.
+🎉 Passionate about Full Stack Web Developer and artificial intelligence.
 
 📫 Reach out to me at ramonsolis11@gmail.com.
 
