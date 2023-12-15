@@ -12,11 +12,11 @@
 
 🌍 Based in Tegucigalpa, Honduras.
 
-💻 Proficient in programming languages such as JavaScript, Java, PHP, C# and Asp.net.
+💻 Proficient in programming languages such as JavaScript, Java, PHP, C# TypeScript.
 
 📖 Currently, I'm on a journey to become a DevOps.
 
-👨🏻‍💻 Repository showcases some of my work: https://github.com/ramonsolis11
+👨🏻‍💻 Repository showcases some of my work: [https://github.com/ramonsolis11](https://github.com/ramonsolis11?tab=repositories)
 
 🎓 Graduated in Systems Engineering from Universidad Católica de Honduras.
 
