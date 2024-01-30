@@ -12,7 +12,7 @@
 
 🌍 Based in Tegucigalpa, Honduras.
 
-💻 Proficient in programming languages such as JavaScript, Java, PHP, C# TypeScript.
+💻 Proficient in programming languages such as JavaScript, Java, PHP, WordPress, C# TypeScript.
 
 📖 Currently, I'm on a journey to become a DevOps.
 
@@ -37,6 +37,7 @@ Here's a glimpse of the technologies I work with:
 ![JavaScript](https://img.shields.io/badge/JavaScript-%23323330?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![Java](https://img.shields.io/badge/Java-%23ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-%23777BB4?style=for-the-badge&logo=php&logoColor=white)
+![WordPress](https://img.shields.io/badge/WordPress-%2321759B?style=for-the-badge&logo=wordpress&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-%23239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26?style=for-the-badge&logo=html5&logoColor=white)
