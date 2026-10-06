@@ -1,103 +1,189 @@
 <div align="center">
-    <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZDg4MjcxOTFkMGU3M2U2ZTc5Mzc4ODI4Zjc2YzFiM2Q0NmRmMmFlMSZjdD1n/f3iwJFOVOwuy7K6FFw/giphy.gif" width="200" alt="MonDev">
-    <h1>Hello! 👋 I'm MonDev.</h1>
-    <p>Welcome to my GitHub profile! I'm a passionate Full Stack Web Developer based in Honduras.</p>
-    <p>This repository showcases some of my work, and I hope you find something useful here. If you have any questions or comments, please don't hesitate to reach out to me.</p>
+
+# Ramón Solís Núñez
+
+### Solution Architect · Technical Lead · .NET & Cloud Solutions
+
+**15+ years designing, building and evolving enterprise software solutions**
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-ramonsolis--dev-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ramonsolis-dev)
+[![GitHub](https://img.shields.io/badge/GitHub-ramonsolis11-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ramonsolis11)
+[![Email](https://img.shields.io/badge/Email-ramonsolis11%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ramonsolis11@gmail.com)
+
+📍 Tegucigalpa, Honduras
+
 </div>
 
+---
+
+## Professional Profile
+
+I am a **Solution Architect, Technical Lead and Software Engineer** with more than 15 years of experience in software development, systems integration and technical leadership.
+
+My main focus is designing **scalable, secure and maintainable solutions** using **C#/.NET, ASP.NET Core, REST APIs, cloud-native practices and enterprise integration patterns**. I have led multidisciplinary development teams, defined engineering standards and supported the modernization of business-critical platforms across public-sector and enterprise environments.
+
+I work comfortably across the full software lifecycle: **architecture, discovery, implementation, integration, DevOps, technical governance, troubleshooting and continuous improvement**.
 
 ---
 
-### 👨‍💻 About Me
+## Core Expertise
 
-🌍 Based in Tegucigalpa, Honduras.
+<table>
+<tr>
+<td width="50%" valign="top">
 
-💻 Proficient in programming languages such as JavaScript, Java, PHP, WordPress, C# TypeScript.
+### Software Architecture
 
-📖 Currently, I'm on a journey to become a DevOps.
+- Solution & Application Architecture
+- Clean Architecture
+- Domain-Driven Design principles
+- Modular Monoliths & Microservices
+- REST API design & integration
+- Event-driven architecture concepts
+- Security & authorization design
+- Scalability, maintainability & resilience
 
-👨🏻‍💻 Repository showcases some of my work: [https://github.com/ramonsolis11](https://github.com/ramonsolis11?tab=repositories)
+</td>
+<td width="50%" valign="top">
 
-🎓 Graduated in Systems Engineering from Universidad Católica de Honduras.
+### Technical Leadership
 
-🎉 Passionate about Full Stack Web Developer and artificial intelligence.
+- Technical team leadership
+- Architecture reviews
+- Code reviews & engineering standards
+- Technical mentoring
+- Technical debt management
+- Delivery planning & risk management
+- Cross-functional coordination
+- Legacy modernization
 
-📫 Reach out to me at ramonsolis11@gmail.com.
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
----
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
----
+### .NET & Backend Engineering
 
+- C# / .NET / ASP.NET Core
+- REST APIs
+- Entity Framework Core
+- Authentication & Authorization
+- SQL Server / PostgreSQL / MySQL
+- Background services & integrations
+- ERP / CRM integrations
+- SAP Business One integrations
 
-# 💻 Tech Stack
+</td>
+<td width="50%" valign="top">
 
-Here's a glimpse of the technologies I work with:
+### Cloud & DevOps
 
-![JavaScript](https://img.shields.io/badge/JavaScript-%23323330?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![Java](https://img.shields.io/badge/Java-%23ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-%23777BB4?style=for-the-badge&logo=php&logoColor=white)
-![WordPress](https://img.shields.io/badge/WordPress-%2321759B?style=for-the-badge&logo=wordpress&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-%23239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-![Odoo ERP](https://img.shields.io/badge/Odoo%20ERP-%2343A047?style=for-the-badge&logo=odoo&logoColor=white)
-![SAP Business One](https://img.shields.io/badge/SAP_Business_One-%230066CC?style=for-the-badge&logo=sap&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-%23E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-%231572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Netlify](https://img.shields.io/badge/Netlify-%23000000?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
-![Heroku](https://img.shields.io/badge/Heroku-%23430098?style=for-the-badge&logo=heroku&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-%23000000?style=for-the-badge&logo=vercel&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-%23039BE5?style=for-the-badge&logo=firebase)
-![.NET](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
-![Angular](https://img.shields.io/badge/Angular-%23DD0031?style=for-the-badge&logo=angular&logoColor=white)
-![Angular.js](https://img.shields.io/badge/Angular.js-%23E23237?style=for-the-badge&logo=angularjs&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-%23563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-%23404d59?style=for-the-badge&logo=express&logoColor=%2361DAFB)
-![jQuery](https://img.shields.io/badge/jQuery-%230769AD?style=for-the-badge&logo=jquery&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-%23FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-![NPM](https://img.shields.io/badge/NPM-%23000000?style=for-the-badge&logo=npm&logoColor=white)
-![NestJS](https://img.shields.io/badge/NestJS-%23E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
-![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-%23121011?style=for-the-badge&logo=github&logoColor=white)
-![React](https://img.shields.io/badge/React-%2320232a?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
-![Redux](https://img.shields.io/badge/Redux-%23593d88?style=for-the-badge&logo=redux&logoColor=white)
-![Spring](https://img.shields.io/badge/Spring-%236DB33F?style=for-the-badge&logo=spring&logoColor=white)
-![Webpack](https://img.shields.io/badge/Webpack-%238DD6F9?style=for-the-badge&logo=webpack&logoColor=black)
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
-![Jenkins](https://img.shields.io/badge/Jenkins-%232C5263?style=for-the-badge&logo=jenkins&logoColor=white)
-![Nginx](https://img.shields.io/badge/Nginx-%23009639?style=for-the-badge&logo=nginx&logoColor=white)
-![Apache](https://img.shields.io/badge/Apache-%23D42029?style=for-the-badge&logo=apache&logoColor=white)
-![Postgres](https://img.shields.io/badge/PostgreSQL-%23316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-%2300f?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b?style=for-the-badge&logo=mongodb&logoColor=white)
-![Microsoft SQL Server](https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
-![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-%23F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Git](https://img.shields.io/badge/Git-fc6d26?style=for-the-badge&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Jira](https://img.shields.io/badge/Jira-%230A0FFF?style=for-the-badge&logo=jira&logoColor=white)
-![Notion](https://img.shields.io/badge/Notion-%23000000?style=for-the-badge&logo=notion&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Trello](https://img.shields.io/badge/Trello-%23026AA7?style=for-the-badge&logo=Trello&logoColor=white)
-![Webflow](https://img.shields.io/badge/Webflow-4353FF?style=for-the-badge&logo=webflow&logoColor=white)
+- Docker
+- Kubernetes
+- CI/CD
+- GitHub Actions / Jenkins
+- Linux
+- Nginx
+- Observability concepts
+- Cloud solution design
 
+</td>
+</tr>
+</table>
 
 ---
 
+## Technology Stack
 
-<!--
-**ramonsolis11/RamonSolis11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Primary Stack
 
-Here are some ideas to get you started:
+![C#](https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=csharp&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_APIs-005571?style=flat-square&logo=fastapi&logoColor=white)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Architecture & Engineering
+
+![Clean Architecture](https://img.shields.io/badge/Clean_Architecture-2C3E50?style=flat-square)
+![Microservices](https://img.shields.io/badge/Microservices-FF6F00?style=flat-square)
+![DDD](https://img.shields.io/badge/DDD-5C2D91?style=flat-square)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+
+### Full Stack & Integration
+
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
+
+### Enterprise Platforms
+
+![SAP Business One](https://img.shields.io/badge/SAP_Business_One-0FAAFF?style=flat-square&logo=sap&logoColor=white)
+![Odoo](https://img.shields.io/badge/Odoo-714B67?style=flat-square&logo=odoo&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+
+---
+
+## Selected Professional Experience
+
+### Enterprise & Government Solutions
+
+- **Panama Government** — Worked on an ERP platform for correctional-facility administration, including integration with external penitentiary APIs and enterprise workflows.
+- **Jamaica Government** — Participated in a national enrollment platform, strengthening the solution through containerization, Kubernetes, APIs and DevOps practices while joining an already active project.
+- **ERP / Business Platforms** — Experience stabilizing, integrating and evolving ERP solutions, including business process analysis, API integrations, security reviews and technical governance.
+- **SAP Business One** — Development of AddOns and integrations using C# and web technologies.
+
+---
+
+## Leadership
+
+I have led technical teams in software delivery and architecture environments, including:
+
+- **18 professionals** at Creative Technology Services.
+- **15 professionals** at Grupo Visión.
+
+My leadership approach emphasizes clear technical direction, maintainable architecture, engineering standards, accountability and pragmatic delivery.
+
+---
+
+## Current Technical Interests
+
+- Cloud-native architecture
+- Distributed systems
+- AI-assisted software engineering
+- Agentic systems and AI integration
+- DevOps & platform engineering
+- Secure API architecture
+- Observability and operational resilience
+
+---
+
+## Engineering Principles
+
+> Build systems that are understandable, secure, observable and easy to evolve.
+
+I value architecture that supports business goals without unnecessary complexity. My preference is to start with the simplest structure that satisfies the problem, define clear boundaries, automate delivery and observability, and evolve toward distributed patterns only when scale or organizational needs justify them.
+
+---
+
+## Connect
+
+- **GitHub:** [github.com/ramonsolis11](https://github.com/ramonsolis11)
+- **LinkedIn:** [linkedin.com/in/ramonsolis-dev](https://www.linkedin.com/in/ramonsolis-dev)
+- **Email:** [ramonsolis11@gmail.com](mailto:ramonsolis11@gmail.com)
+- **Location:** Tegucigalpa, Honduras
+
+<div align="center">
+
+### Open to architecture, technical leadership and software engineering opportunities
+
+</div>
