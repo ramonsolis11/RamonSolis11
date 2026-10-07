@@ -2,7 +2,7 @@
 
 # Ramón Solís Núñez
 
-### Solution Architect · Technical Lead · .NET & Cloud Solutions
+### Technology Consultant | Solution Architect | Technical Lead | .NET & Cloud | Software Engineering
 
 **15+ years designing, building and evolving enterprise software solutions**
 
